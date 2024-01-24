@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">NewsApp_android</string>
+    <string name="app_name">NewsBag</string>
+    <string name="save">Save</string>
 </resources>
